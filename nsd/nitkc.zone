@@ -1,5 +1,5 @@
 $TTL 86400
-@ IN    SOA     www.example.com. root.example.com. (
+@ IN    SOA     www.nitkc. root.nitkc. (
 	2012020302      ;Serial
 	3600            ;Refresh
 	1800            ;Retry
@@ -8,3 +8,4 @@ $TTL 86400
 )
 
 @ IN      A       192.168.24.60
+test IN      A       192.168.123.123
